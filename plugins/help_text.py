@@ -118,7 +118,7 @@ async def start(bot, update):
       ],
       [
           InlineKeyboardButton('👨‍💻 DEVELOPER', url='https://t.me/919618965415'),
-          InlineKeyboardButton('🌝 SOURCE', url='https://github.com/LISA-KOREA/UPLOADER-BOT-V2'),
+          InlineKeyboardButton('🌝 SOURCE', url='https://github.com/saichandan181/url-uploader.git'),
           ]
         ]
       ),
