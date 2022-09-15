@@ -53,7 +53,7 @@ You can now send a new URL."""
 
 <b>🔘 Channel :</b> <a href="https://t.me/chandan_bots">NT BOT</a>
 
-<b>🔘 Source :</b> <a href="https://github.com/LISA-KOREA/UPLOADER-BOT-V2">Click Here</a>
+<b>🔘 Source :</b> <a href="https://github.com/saichandan181/url-uploader.git">Click Here</a>
 
 <b>🔘 Language :</b> <a href="https://www.python.org/">Python 3.10.7</a>
 
