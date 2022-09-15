@@ -1,11 +1,4 @@
 # UPLOADER V2 🚀
-
-[![logo](https://c.tenor.com/FU4mw1elg4QAAAAd/blackpink-kpop.gif)](https://telegram.dog/UploadLinkToFileBot)
-
-[![GitHub forks](https://img.shields.io/github/forks/LISA-KOREA/UPLOADER-BOT-V2?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/UPLOADER-BOT-V2/fork)
-![Repo Size](https://img.shields.io/github/repo-size/LISA-KOREA/UPLOADER-BOT-V2?&style=flat-square&logo=github)
-[![GitHub stars](https://img.shields.io/github/stars/LISA-KOREA/UPLOADER-BOT-V2?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/UPLOADER-BOT-V2/stargazers)
-
   
 
 
