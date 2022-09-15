@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """Hi {} 👋
 
-I'm Url Uploader Bot🚀 
+I'm All Saver Bot Developed By Chandan🚀 
 
 <b>Permanent Thumbnail Support💯.</b>
 
