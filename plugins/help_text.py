@@ -117,9 +117,8 @@ async def start(bot, update):
           InlineKeyboardButton('📍 CHANNEL', url='https://t.me/chandan_bots'),
       ],
       [
-          InlineKeyboardButton('👨‍💻 DEVELOPER', url='https://t.me/919618965415'),
+          InlineKeyboardButton('🥺 Buy Me a Coffee',url='https://www.buymeacoffee.com/saichandan'),
           InlineKeyboardButton('🌝 SOURCE', url='https://github.com/saichandan181/url-uploader.git'),
-           InlineKeyboardButton('🌝 Buy Me a Coffee',url='https://www.buymeacoffee.com/saichandan'),
           ]
         ]
       ),
