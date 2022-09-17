@@ -21,6 +21,6 @@
 2. `API_HASH` : Get it from https://my.telegram.org/apps
 3. `BOT_TOKEN` : Get it from [@Botfather](https://t.me/botfather)
 4. `DATABASE_URL` : Your mongodb url obtained from [mongodb.com](https://www.mongodb.com)
-5. `OWNER_ID` : Your telegram I'd use this ](https://telegram.dog/UploadLinkToFileBot) and use `/info`
+5. `OWNER_ID` : Your telegram I'd use this and use `/info`
 
 
