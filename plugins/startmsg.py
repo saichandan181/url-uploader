@@ -5,7 +5,7 @@ I'm All Saver Bot Developed By Chandan🚀
 
 <b>Permanent Thumbnail Support💯.</b>
 
-<b>🔘 IF You like My Work Buy Me a Coffee :</b> <a href="https://www.buymeacoffee.com/saichandan">Click Here</a>
+<b>🔘 IF You liked My Work Buy Me a Coffee :</b> <a href="https://www.buymeacoffee.com/saichandan">Click Here</a>
 <i>Send me a direct link and I will upload it to telegram as a file/video.</i>
 
 Click /help for more details...."""
