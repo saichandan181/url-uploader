@@ -8,7 +8,7 @@
 
 
 ### Buy me a coffee
-<a href="https://www.buymeacoffee.com/saichandan"><img alt=""src="bmc-button.png"/></a>
+<a href="https://www.buymeacoffee.com/saichandan"><img alt="Buy Me A Coffee"src="bmc-button.png"/></a>
 
 ##
 
