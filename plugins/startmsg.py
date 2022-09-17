@@ -3,9 +3,9 @@ class Translation(object):
 
 I'm All Saver Bot Developed By Chandan🚀 
 
-<b>Permanent Thumbnail Support💯.</b>
-
 <i>Send me a direct link and I will upload it to telegram as a file/video.</i>
+
+<b>Permanent Thumbnail Support💯.</b>
 
 Click /help for more details...."""
     ADD_CAPTION_HELP = """Select an uploaded file/video or forward me <b>Any Telegram File</b> and just write the text you want to be on the file <b>as a reply to the file</b> and the text you wrote will be attached as the caption! 🤩
