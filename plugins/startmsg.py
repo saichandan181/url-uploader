@@ -55,6 +55,8 @@ You can now send a new URL."""
 
 <b>🔘 Source :</b> <a href="https://github.com/saichandan181/url-uploader.git">Click Here</a>
 
+<b>🔘 Buy Me a Coffee :</b> <a href="https://www.buymeacoffee.com/saichandan">Click Here</a>
+
 <b>🔘 Language :</b> <a href="https://www.python.org/">Python 3.10.7</a>
 
 <b>🔘 Framework :</b> <a href="https://docs.pyrogram.org/">Pyrogram 1.4.16</a>
