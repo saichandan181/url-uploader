@@ -8,8 +8,7 @@
 
 
 ### Buy me a coffee
-<a href="https://www.buymeacoffee.com/saichandan"><img alt="Buy Me A Coffee"src="bmc-button.png"/></a>
-
+<a href="https://www.buymeacoffee.com/saichandan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 ##
 
 ### Use this bot [Upload Bot V3.3 🚀](http://t.me/U)
