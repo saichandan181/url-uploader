@@ -5,13 +5,13 @@ I'm All Saver Bot Developed By Chandan🚀
 
 <b>Permanent Thumbnail Support💯.</b>
 
-<b>🔘 IF You liked My Work Buy Me a Coffee :</b> <a href="https://www.buymeacoffee.com/saichandan">Click Here</a>
 <i>Send me a direct link and I will upload it to telegram as a file/video.</i>
 
 Click /help for more details...."""
     ADD_CAPTION_HELP = """Select an uploaded file/video or forward me <b>Any Telegram File</b> and just write the text you want to be on the file <b>as a reply to the file</b> and the text you wrote will be attached as the caption! 🤩
     
 Example: <a href='https://te.legra.ph/file/ecf5297246c5fb574d1a0.jpg'>See This!</a> 👇"""
+ 
 
     INCORRECT_REQUEST = """Please make sure you submit your request correctly."""
     WAIT_PROCESS_FINISH = """Please wait for your current file to finish downloading before sending more links!
